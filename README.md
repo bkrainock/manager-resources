@@ -34,5 +34,5 @@ I believe in putting people first. I believe in collaborative teams without bull
 
 Thank you for slogging through my very "work in progmess" README. Hopefully this helps you understand how to work better with me. Please feel free to open a PR with any suggestions!
 
-![work in progmess gif](./progmess.gif)
+![work in progmess gif](./images/progmess.gif)
 

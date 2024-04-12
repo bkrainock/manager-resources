@@ -1,17 +1,27 @@
 # About me
-I guess this is why you're here?
+Yes, hello and welcome to the "find out" phase.
 
 ## My philosophy
 
-I often ask people "What is your purpose in life?" I think it's a very telling question and I hope a thought-provoking one! For me, the answer has been pretty consistent for the past few years: **My purpose in life is to help people become the best they can be.**
+Ever since about the age of 16 I've realized I find fulfillment in the relationships and connections have the opportunity to build with others. In high school the subject I excelled in was Spanish and I don't think its because I'm any better at learning a foreign language than anyone else, its because I enjoyed learned learning about a different culture while learning a new language.
 
-[Radical Candor](https://www.blinkist.com/en/books/radical-candor-en/) is perhaps the best resource to understand my approach to management and feedback. I believe in giving timely, honest feedback _because I care about you._ I don't believe in surprising people at review time with bad feedback. Your performance reviews should be underwhelming events because you should always know where you stand with me at all times. You can read more about my thoughts on feedback [here](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275).
+In the workplace I derive the same fulfillment forging healthy, authentic relationships built on trust. Because I care about those I work with, I believe in giving honest, timely feedback. I hope those I work with feel the same and are willing to the return the favor.
+
+I believe in bringing my full self to work and creating safe spaces where others can do the same. It is my belief that strong teams build upon a foundation of trust can accomplish almost anything. Something I strive to instill in team cultures is the African proverb, "If you want to go fast, go alone. If you want to go far, go together.".
+![if you want to go far go together](../images/go_far_together.jpg)
+
+## CliftonStrengths
+- Woo (Winning Others Over)
+- Communication
+- Developer
+- Includer
+- Positivity
 
 ## My role
 
 I like to think of myself as a momma bear coaching a soccer team that my cubs are on. I will 100% eat any other bears that dares to hurt my team, but I also expect my cubsters to be on their best behavior and to be excellent team players. Everyone must shake hands (or paws, if you must) with the other team at the end of the game. No exceptions.
 
-![obligatory bear gif](../bear.gif)
+![obligatory bear gif](../images/bear.gif)
 
 In real people terms, it means I expect my reports to be collaborative team players and to be good sports if something does go wrong. There is no room for ego on my team. **There is no room for bullies on this team.** If someone is doing really well on the team, we should all celebrate that person's work! If you're doing really well, we will also celebrate you! If you need to constantly be in the limelight **at the expense of others**, then you may want to reconsider if this is the best fit for you.
 
