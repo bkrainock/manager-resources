@@ -83,25 +83,21 @@ I understand that it can be difficult to trust a new manager. You've probably be
 
 ## Things I'm working on
 
-As much as I like to think I'm a robot who will live forever without feelings, I often fail pretty hard. Some known failure modes I have are:
+I consider it an honor to take on the emotional labor for my team and others I care about. And while I believe I'm more capable of doing this than the average person, as a fallible human and someone with a high EQ this means I have my limits. Some of the contributing factors to me reaching those limits are:
 
-- overcommitting to events and burning out
-- getting overwhelmed at social events (I am an introvert after all)
-- forgetting to do self-care
+- taking on heavy loads of emotional labor for sustained periods of time (4+ weeks)
+- forgetting to do, or simply neglecting self-care
 - not liking being told what to do (asking questions has a much better success rate)
 
 Ways I'm working on these:
 - regularly going to therapy
-- regularly going to the gym
-- actively working on [closing the stress cycle](https://www.amazon.com/Burnout-Secret-Unlocking-Stress-Cycle-ebook/dp/B07DT4GW16/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1567181581&sr=8-1)
-- [photography](https://instagram.com/danielleleongphoto)
-- limiting the number of extracurricular activities I do
-- regularly taking time off
+- re-establishing a regular fitness routine
+- giving myself permission to take time away for those days where I need a mental health day
 - limiting social media usage
+- doing activities that help fill my cup like reconnecting over lunch with those I care about but haven't seen in a while
 
 Ways you can help!
-- remind me to take breaks (I always appreciate this)
+- remind me to take breaks (I always appreciate this and if we have a solid relationship feel free to challenge me to take more time or breaks! If I know you're coming from a place of care then a more forceful challenge can be exactly what I need)
 - remind me to delegate
-- give me some space if it looks like it's That Kind of Day
-- snacks. Snacks are always appreciated (savory preferred). Or coffee/tea.
+- sincerely checking in on how I'm doing
 - start with questions and context - I always value learning about your understanding of a situation so that we can be on the same page
