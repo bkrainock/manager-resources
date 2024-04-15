@@ -13,7 +13,7 @@ I believe in putting people first. I believe in collaborative teams without bull
 ## Table of contents
 - [About](docs/about.md)
   - [My philosophy](docs/about.md#my-philosophy)
-  - [My role](docs/about.md#my-role) (momma bear coaching soccer.gif)
+  - [My role](docs/about.md#my-role)
   - [Values](docs/about.md#values)
 - [Expectations](docs/expectations.md#expectations) 
   - [High performers](docs/expectations.md#high-performers)
@@ -34,5 +34,5 @@ I believe in putting people first. I believe in collaborative teams without bull
 
 Thank you for slogging through my very "work in progmess" README. Hopefully this helps you understand how to work better with me. Please feel free to open a PR with any suggestions!
 
-![work in progmess gif](./progmess.gif)
+![work in progmess gif](./images/progmess.gif)
 
