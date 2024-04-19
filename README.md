@@ -4,7 +4,7 @@ Welcome to my README! In the age of remote work, it can be harder than ever to g
 
 
 > [!NOTE]
-> **Special thank you** to [Danielle Leong](https://github.com/dmleong) for graciously allowing me to steal/fork her idea (and content) for this repository
+> **Special thank you** to [Danielle Leong](https://github.com/dmleong) for graciously allowing me to steal/fork her idea, structure and content for this repository
 
 
 ## TLDR
