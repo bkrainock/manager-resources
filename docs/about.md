@@ -5,7 +5,7 @@ Yes, hello and welcome to the "find out" phase.
 
 Ever since about the age of 16 I've realized I find fulfillment in the relationships and connections have the opportunity to build with others. In high school the subject I excelled in was Spanish and I don't think its because I'm any better at learning a foreign language than anyone else, its because I enjoyed learned learning about a different culture while learning a new language.
 
-In the workplace I derive the same fulfillment forging healthy, authentic relationships built on trust. Because I care about those I work with, I believe in giving honest, timely feedback. I hope those I work with feel the same and are willing to the return the favor.
+In the workplace I derive the same fulfillment forging healthy, authentic relationships built on trust. Because I care about those I work with, I believe in giving honest, timely feedback. I believe taking good care of those I work with and taking care of the end user is taking care of the business.
 
 I believe in bringing my full self to work and creating safe spaces where others can do the same. It is my belief that strong teams build upon a foundation of trust can accomplish almost anything. Something I strive to instill in team cultures is the African proverb, "If you want to go fast, go alone. If you want to go far, go together.".
 
@@ -45,7 +45,7 @@ You do have to meet me halfway. I will be your biggest cheerleader, but I can't 
 
 Sometimes I'll ask you to write down what you're doing to help me out. Sometimes it's because I legit have too many things to focus on and I need an easy way to recall all the amazing things that you've done lately. Help me help you get more money!
 
-## What do I value most?
+## What I value most
 
 I value doing the right thing even when its hard or when no one is looking.
 
