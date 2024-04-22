@@ -13,8 +13,9 @@ I believe in putting people first. I believe in collaborative teams without bull
 ## Table of contents
 - [About](docs/about.md)
   - [My philosophy](docs/about.md#my-philosophy)
+  - [My CliftonStrengths](docs/about.md#my-cliftonstrengths)
   - [My role](docs/about.md#my-role)
-  - [Values](docs/about.md#what-i-value-most)
+  - [My Values](docs/about.md#what-do-i-value-most)
 - [Expectations](docs/expectations.md#expectations) 
   - [High performers](docs/expectations.md#high-performers)
   - [How I will provide feedback to you](docs/expectations.md#how-i-will-provide-feedback-to-you)
