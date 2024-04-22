@@ -4,7 +4,7 @@ Welcome to my README! In the age of remote work, it can be harder than ever to g
 
 
 > [!NOTE]
-> **Special thank you** to [Danielle Leong](https://github.com/dmleong) for graciously allowing me to steal/fork her idea (and content) for this repository
+> **Special thank you** to [Danielle Leong](https://github.com/dmleong) for graciously allowing me to steal/fork her idea, structure and content for this repository
 
 
 ## TLDR
@@ -13,11 +13,11 @@ I believe in putting people first. I believe in collaborative teams without bull
 ## Table of contents
 - [About](docs/about.md)
   - [My philosophy](docs/about.md#my-philosophy)
+  - [My CliftonStrengths](docs/about.md#my-cliftonstrengths)
   - [My role](docs/about.md#my-role)
-  - [Values](docs/about.md#values)
+  - [My Values](docs/about.md#what-do-i-value-most)
 - [Expectations](docs/expectations.md#expectations) 
   - [High performers](docs/expectations.md#high-performers)
-  - [Managing managers](docs/expectations.md#managers)
   - [How I will provide feedback to you](docs/expectations.md#how-i-will-provide-feedback-to-you)
 - [Housekeeping](docs/housekeeping.md)
   - [Feedback for me](docs/housekeeping.md#feedback-for-me)
