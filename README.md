@@ -25,9 +25,10 @@ I believe in putting people first. I believe in collaborative teams without bull
   - [Expenses and Requests](docs/housekeeping.md#expenses-and-requests)
 - [Meetings](docs/meetings.md)
   - [1:1s](docs/meetings.md#11s)
+  - [Stand Up](docs/meetings.md#stand-up)
+  - [Engineer Team Sync](docs/meetings.md#engineer-team-sync)
   - [Retrospectives](docs/meetings.md#retrospectives)
 - [Things I'm working on](docs/about.md#things-im-working-on)
-- [Recommended readings](recommended-readings.md)
 
 
 ## Conclusion
